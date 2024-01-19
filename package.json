@@ -7,9 +7,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "files": [
-    "dist"
-  ],
   "engines": {
     "node": ">=14.0.0"
   },
